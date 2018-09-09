@@ -1,0 +1,15 @@
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\bin\Debug\EntityEducation.exe.config
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\bin\Debug\EntityEducation.exe
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\bin\Debug\EntityEducation.pdb
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\bin\Debug\EntityFramework.dll
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\bin\Debug\EntityFramework.xml
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.csprojResolveAssemblyReference.cache
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.Properties.Resources.resources
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.csproj.GenerateResource.cache
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.csproj.CoreCompileInputs.cache
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.csproj.CopyComplete
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.exe
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.pdb
+C:\Users\Ozz\source\repos\EntityEducation\EntityEducation\obj\Debug\EntityEducation.bbtn.resources
